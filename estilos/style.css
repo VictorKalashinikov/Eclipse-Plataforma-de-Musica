@@ -11,7 +11,7 @@ body, html {
     background: url(../imagens/background-celular.png);
     background-size: cover;
     height: 100vh;
-    width: 100vh;
+    width: 100vw;
 }
 
 main {
