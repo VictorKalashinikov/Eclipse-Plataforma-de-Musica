@@ -19,3 +19,29 @@ header {
 header img {
     width: 50px;
 }
+
+header {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+header > nav > a {
+    background-color: #1F1F1F;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 15px;
+    margin-left: 10px;
+}
+
+section.playlist {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.playlist {
+    width: 50vw;
+}
